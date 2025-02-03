@@ -1,0 +1,49 @@
+.enve{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+}
+
+.openen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2%;
+}
+
+.letteren{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
+
+.no1en,.no2en,.no3en,.no4en,.no5en,.no6en,.no7en,.last{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
+
+.lastnope{
+    background-color: rgba(193, 124, 116, 0.5);
+    color: rgba(0, 0, 0, 0.815);
+    font-family:Annie Use Your Telescope;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    text-shadow: 0.1px 0.1px 0.1px rgba(0, 0, 0, 0.508);
+    filter: blur(0.4px);
+}
+
+.annie-use-your-telescope-regular {
+    font-family: "Annie Use Your Telescope"; 
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  
+.button{
+    cursor: pointer;
+}
