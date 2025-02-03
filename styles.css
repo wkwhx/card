@@ -37,13 +37,35 @@
     filter: blur(0.4px);
 }
 
-.annie-use-your-telescope-regular {
+  .abc{
+    color:#c17c7480;
+    font-family:"Annie Use Your Telescope" !important;
+    font-size: 28px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    stroke-width: 2%;
+    stroke: #c17c7480;
+  }
+  
+  .annie-use-your-telescope-regular {
     font-family: "Annie Use Your Telescope"; 
     font-weight: 400;
     font-style: normal;
   }
 
-  
 .button{
     cursor: pointer;
+}
+
+.gif {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gif img {
+    padding-top: 200px;
+    width: 200px; 
+    height: auto;
 }
